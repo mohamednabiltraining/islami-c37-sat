@@ -1,4 +1,4 @@
-package com.route.islamic37sat.quran
+package com.route.islamic37sat.home.quran
 
 import android.view.LayoutInflater
 import android.view.View
