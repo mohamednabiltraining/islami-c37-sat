@@ -12,11 +12,12 @@
         <entry key="app/src/main/res/layout/content_home.xml" value="0.27810211181640626" />
         <entry key="app/src/main/res/layout/content_quran.xml" value="0.2781992594401042" />
         <entry key="app/src/main/res/layout/content_sura_details.xml" value="0.25" />
-        <entry key="app/src/main/res/layout/fragment_hadeth.xml" value="0.2390625" />
+        <entry key="app/src/main/res/layout/fragment_hadeth.xml" value="0.25" />
         <entry key="app/src/main/res/layout/fragment_quran.xml" value="0.23697916666666666" />
         <entry key="app/src/main/res/layout/fragment_radio.xml" value="0.2390625" />
         <entry key="app/src/main/res/layout/fragment_tasbeh.xml" value="0.2390625" />
         <entry key="app/src/main/res/layout/item_chapter.xml" value="0.21770833333333334" />
+        <entry key="app/src/main/res/layout/item_hadeth.xml" value="0.196875" />
         <entry key="app/src/main/res/layout/item_verse.xml" value="0.22239583333333332" />
         <entry key="app/src/main/res/menu/home_bottom_nav.xml" value="0.23697916666666666" />
       </map>
